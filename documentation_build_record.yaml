@@ -1,0 +1,16 @@
+documentation:
+  specification: MEDIXAI-SPEC-1.0
+  release: MEDIXAI-REL-1.0.1
+
+build:
+  sphinxVersion: 8.2.3
+  timestampUTC: 2026-07-13T22:08:52Z
+  status: passed
+
+changes:
+  semanticChanges: false
+  normativeRequirementsChanged: false
+  documentationOnly: true
+
+tag:
+  id: medixai-docs-v1.0.1
